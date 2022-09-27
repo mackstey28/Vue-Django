@@ -1,4 +1,4 @@
-<!-- cd /mnt/c/users/maxwe/OneDrive/Documents/BetterShot-master/frontend -->
+<!-- cd /mnt/c/users/maxwe/OneDrive/Documents/Django-Vue -->
 <!-- npm run dev -->
 
 <template>
